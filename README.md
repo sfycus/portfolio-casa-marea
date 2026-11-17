@@ -1,5 +1,7 @@
 # Casa Marea
 
+[Открыть сайт](https://sfycus.github.io/portfolio-sites/sites/coral-house/) · [Каталог проектов](https://sfycus.github.io/portfolio-sites/)
+
 Бутик-отель · самостоятельный сайт для портфолио.
 
 <img src="assets/arch-sea.jpg" alt="Фотография для проекта Casa Marea" width="760">
